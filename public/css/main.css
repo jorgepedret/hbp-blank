@@ -1,6 +1,11 @@
-h1 {
-  color: #ff0049;
-  font-size: 72px;
+.intro {
   text-align: center;
-  margin-top: 40px;
+  width: 600px;
+  margin: 20px auto 0;
+}
+h1 {
+  font-size: 72px;
+  line-height: 90px;
+  text-align: center;
+  border-bottom: #CCC solid 1px;
 }
